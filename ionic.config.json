@@ -1,0 +1,7 @@
+{
+  "name": "lafregonafm",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
